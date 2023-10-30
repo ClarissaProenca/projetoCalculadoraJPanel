@@ -15,7 +15,7 @@ public class Main {
         frame.setLocationRelativeTo(null);
 
         JPanel panel = new JPanel();
-        panel.setLayout(new GridLayout(6, 2));
+        panel.setLayout(new GridLayout(5, 2));
 
         JTextField inputField1 = new JTextField();
         JTextField inputField2 = new JTextField();
